@@ -98,7 +98,7 @@ These visuals help transform complex datasets into **easy-to-understand business
 
 ## 📸 Dashboard Preview
 
-![ChatGPT Dashboard](https://github.com/onkarlondhe1139/OnkarLondhe-MS-Elevate-AICTE-Internship---Power-BI-Project---Feb-2026/blob/main/MakeMyTrip_Dashboard.pdf)
+![ChatGPT Dashboard](https://github.com/onkarlondhe1139/OnkarLondhe-MS-Elevate-AICTE-Internship---Power-BI-Project---Feb-2026/blob/main/MakeMyTrip_Dashboard.jpg)
 
 
 ---
